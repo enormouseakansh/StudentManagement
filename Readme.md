@@ -1,0 +1,1 @@
+In this branch there are two java projects one is used for registering the persons and store the details in the database and the other one is the login page and it is use to login by verifying the credentials stored in the database named as admindatabase and i have provided the table named as persons.
